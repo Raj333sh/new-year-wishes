@@ -20,7 +20,11 @@ export default function QuoteBox() {
             return data.content;
           },
         },
+<<<<<<< HEAD
         {
+=======
+        {/*
+>>>>>>> recovered-work
           type: "api",
           fetcher: async () => {
             const res = await fetch("https://zenquotes.io/api/random");
@@ -28,7 +32,11 @@ export default function QuoteBox() {
             const data = await res.json();
             return data[0].q;
           },
+<<<<<<< HEAD
         },
+=======
+        */},
+>>>>>>> recovered-work
         {
           type: "local",
           fetcher: async () => {

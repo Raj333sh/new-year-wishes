@@ -7,7 +7,12 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+<<<<<<< HEAD
     "preview": "vite preview"
+=======
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+>>>>>>> recovered-work
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
@@ -26,6 +31,10 @@
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
+<<<<<<< HEAD
+=======
+    "gh-pages": "^6.3.0",
+>>>>>>> recovered-work
     "globals": "^16.5.0",
     "vite": "^7.2.4"
   }

@@ -3,5 +3,27 @@ export const localQuotes = [
   "May your teeth be white, your eyes be bright, and your capacity for love at its height!",
   "Tomorrow is the first blank page of a 365-page book. Write a good one.",
   "New year, new chapter, new verses, or just the same old story? Ultimately we write it. The choice is ours.",
+<<<<<<< HEAD
   "Wishing you 12 months of success, 52 weeks of laughter, 365 days of fun, and 8,760 hours of joy."
+=======
+  "Wishing you 12 months of success, 52 weeks of laughter, 365 days of fun, and 8,760 hours of joy.",
+  "A New Year is like a blank book—the pen is in your hands. It is your chance to write a beautiful story for yourself.",
+  "Every end marks a new beginning.",
+  "May courage, optimism, and hope guide you throughout the year ahead.",
+  "The best way to predict the future is to create it. – Peter Drucker",
+  "With the new day comes new strength and new thoughts. – Eleanor Roosevelt",
+  "Dream big, work hard, and create the life you envision.",
+  "Here's to a year where every challenge feels manageable and every success tastes sweet.",
+  "\"Hope smiles from the threshold of the year to come, whispering 'it will be happier'.\" – Alfred Lord Tennyson",
+  "\"Write it on your heart that every day is the best day in the year.\" – Ralph Waldo Emerson",
+  "\"And now we welcome the new year. Full of things that have never been.\" – Rainer Maria Rilke",
+  "\"The future belongs to those who believe in the beauty of their dreams.\" – Eleanor Roosevelt",
+  "\"Every moment is a fresh beginning.\" – T.S. Eliot",
+  "May every day of this year shine with hope, joy, and positivity.",
+  "Cheers to a fresh start, new adventures, and wonderful memories ahead.",
+  "Health and happiness to you and yours in the new year ahead.",
+  "May this New Year bring health, happiness, and endless love to our family.",
+  "Wishing you success, innovation, and prosperity in the coming year.",
+  "May your 2026 be as sparkling as you are!"
+>>>>>>> recovered-work
 ];
