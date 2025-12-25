@@ -3,9 +3,6 @@ export const localQuotes = [
   "May your teeth be white, your eyes be bright, and your capacity for love at its height!",
   "Tomorrow is the first blank page of a 365-page book. Write a good one.",
   "New year, new chapter, new verses, or just the same old story? Ultimately we write it. The choice is ours.",
-<<<<<<< HEAD
-  "Wishing you 12 months of success, 52 weeks of laughter, 365 days of fun, and 8,760 hours of joy."
-=======
   "Wishing you 12 months of success, 52 weeks of laughter, 365 days of fun, and 8,760 hours of joy.",
   "A New Year is like a blank book—the pen is in your hands. It is your chance to write a beautiful story for yourself.",
   "Every end marks a new beginning.",
@@ -25,5 +22,4 @@ export const localQuotes = [
   "May this New Year bring health, happiness, and endless love to our family.",
   "Wishing you success, innovation, and prosperity in the coming year.",
   "May your 2026 be as sparkling as you are!"
->>>>>>> recovered-work
 ];
