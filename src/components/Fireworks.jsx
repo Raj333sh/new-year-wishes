@@ -6,7 +6,7 @@ export const triggerFireworks = () => {
   if (isRunning) return; // ⛔ block repeated calls
   isRunning = true;
 
-  const duration = 8 * 1000; // shorter feels better UX-wise
+  const duration = 8 * 1000; // 8 seconds
   const animationEnd = Date.now() + duration;
 
   const defaults = {
@@ -31,12 +31,14 @@ export const triggerFireworks = () => {
 
     const particleCount = Math.floor(40 * (timeLeft / duration));
 
+    // Left side fireworks
     confetti({
       ...defaults,
       particleCount,
       origin: { x: randomInRange(0.1, 0.3), y: 0.2 },
     });
 
+    // Right side fireworks
     confetti({
       ...defaults,
       particleCount,

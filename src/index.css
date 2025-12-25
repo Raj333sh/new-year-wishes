@@ -1,10 +1,5 @@
 @import "tailwindcss";
 /* Optional: Add smooth transitions */
-.fixed {
-  transition: top 0.3s ease-out, transform 0.3s ease-out, opacity 0.3s ease-out;
-}
-
-/* Ensure proper stacking */
-.z-10 {
-  z-index: 10;
+html {
+  scroll-behavior: smooth;
 }

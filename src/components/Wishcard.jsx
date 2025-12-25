@@ -1,6 +1,6 @@
 export default function WishCard() {
   return (
-    <div className="flex, flex-col, items-center, justify-center, text-center space-y-4 mb-8">
+    <div className="flex, flex-col, items-center, justify-center, text-center space-y-4 mb-0">
       
       <h1 className="text-3xl md:text-7xl font-black text-white animate-glow px-4">
         HAPPY <br /> NEW YEAR 
