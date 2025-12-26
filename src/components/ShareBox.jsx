@@ -18,7 +18,8 @@ export default function ShareBox() {
   };
 
   const shareToWhatsApp = () => {
-    const text = `✨ ${newName} sent you a New Year Surprise! Check it out here: ${generatedLink}`;
+    const text = `Warm greetings!😊
+                  As we welcome 2026, I(${newName}) made a small personalized New Year message fr you. Take a look 👉: ${generatedLink}`;
     window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, '_blank');
   };
 
