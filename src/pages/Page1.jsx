@@ -24,8 +24,11 @@ const Page1 = ({ senderName }) => {
         </div>
 
         {/* Spacer before Page2 */}
-        <div className="h-screen flex flex-col justify-center items-center font-bold text-4xl">
-          SwipeUP to Create yours...
+        <div className="h-screen w-full 
+        flex flex-col justify-center items-center
+         text-center font-light text-4xl mx-auto
+          max-w-md leading-loose">
+          SwipeUP <br /> Personalize Your New Year Website & Share
         </div>
       </div>
     </div>

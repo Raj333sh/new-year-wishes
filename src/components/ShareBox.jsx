@@ -24,7 +24,7 @@ export default function ShareBox() {
 
   return (
     <div className="mt-12 p-6 bg-gray-900/50 rounded-2xl w-full max-w-sm mx-auto shadow-2xl border border-pink-500/30">
-      <h3 className="text-white font-semibold mb-4 text-center">Create Your Own Wish & Share:</h3>
+      <h2 className="text-white font-semibold mb-4 text-center">Create Your Own Website & Share:</h2>
       <form onSubmit={handleGenerate} className="flex flex-col gap-3">
         <input
           type="text"

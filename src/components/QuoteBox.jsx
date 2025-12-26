@@ -58,9 +58,9 @@ export default function QuoteBox() {
   return (
     <div
       className={`transition-opacity duration-1000 ${
-        loading ? "opacity-0" : "opacity-100"
+        loading ? "opacity-10" : "opacity-100"
       } 
-      max-w-md mx-auto p-6 bg-white/10 backdrop-blur-md rounded-xl border border-white/20 italic text-center text-gray-200`}
+      max-w-lg mx-auto mb-20 p-6 bg-white/10 backdrop-blur-md rounded-xl border border-white/20 italic text-center text-gray-200 text-4xl`}
     >
       "{quote}"
     </div>
