@@ -35,7 +35,7 @@ export default function ShareBox() {
           required
         />
         <button className="bg-linear-to-r from-pink-600 to-purple-600 text-white font-bold py-3 rounded-lg hover:scale-105 active:scale-95 transition-transform">
-          Generate Wish Link
+          Generate Website
         </button>
       </form>
 
